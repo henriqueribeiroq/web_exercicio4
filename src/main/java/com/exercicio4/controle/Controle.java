@@ -25,7 +25,7 @@ public class Controle {
     private List<Professor> professor = new ArrayList<>();
 
     /*
-    Os comandos abaixo se referencia ao professor podendo ser aplicado para aluno da mesma forma.
+    Os comandos abaixo se referencia ao professor. Este pode ser aplicado para aluno da mesma forma.
     
     **/
 
